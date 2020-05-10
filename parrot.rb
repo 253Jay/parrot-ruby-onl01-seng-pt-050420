@@ -1,4 +1,4 @@
 def parrot(phrase = "squawk!")
 puts phrase
-return ("Pretty bird!")
+return phrase
 end
